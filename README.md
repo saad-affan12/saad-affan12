@@ -76,20 +76,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saad-affan12&theme=radical&margin-w=10" />
-</p>
-
----
-
-### 📊 Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad-affan12&theme=tokyo-night" />
-</p>
-
----
-
 ### 💬 Ask Me About:
 - Web Development (React, Node.js, APIs)
 - Full-Stack App Architecture
