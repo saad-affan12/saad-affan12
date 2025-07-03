@@ -10,7 +10,6 @@
 - 💻 I love building dynamic, user-focused web applications
 - 🚀 Currently working on: **Real-time Train Tracking Web App**
 - 🌱 Currently learning: **MERN Stack, GCP, and Advanced DSA**
-- 💼 Portfolio: [saad-affan12.github.io/saad-portfolio](https://saad-affan12.github.io/saad-portfolio/)
 - 📫 Reach me: **saadaffan129@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/saad-affan-566553319](https://www.linkedin.com/in/saad-affan-566553319)
 
@@ -72,19 +71,3 @@
 ---
 
 > 🧠 *“Keep learning. Keep building. Keep shipping.”* — Saad Affan
-## Hi there 👋
-
-<!--
-**saad-affan12/saad-affan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
