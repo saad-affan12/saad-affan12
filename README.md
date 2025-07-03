@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saad Affan A</h1>
 <h3 align="center">Aspiring Full Stack Developer | 2nd Year B.Sc CS @ VIT | Passionate about Web Dev, AI & Open Source</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saad-affan12&color=blue&style=flat-square" alt="Visitor Count"/>
+</p>
+
 ---
 
 ### 💫 About Me:
@@ -34,9 +38,19 @@
 ---
 
 ### 📈 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-affan12&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true" />
+  </picture>
 </p>
 
 ---
@@ -48,16 +62,53 @@
 
 ---
 
+### 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github.com/saad-affan12/saad-affan12/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🧠 Random Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saad-affan12&theme=radical&margin-w=10" />
+</p>
+
+---
+
+### 📊 Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad-affan12&theme=tokyo-night" />
+</p>
+
+---
+
+### 💬 Ask Me About:
+- Web Development (React, Node.js, APIs)
+- Full-Stack App Architecture
+- Git & Version Control
+- Google Cloud Projects
+
+### 🌱 Currently Learning:
+- System Design
+- TypeScript + Next.js
+- Advanced Data Structures
+- Google Cloud (BigQuery, Cloud Functions)
+
+---
+
 ### 🎯 2025 Goals:
 - ✅ Build 5+ Full Stack Projects
 - 🔄 Contribute to Open Source monthly
 - 🎓 Master System Design fundamentals
 - 🌐 Host & scale a cloud-based project
-
----
-
-### 🧩 Fun Fact:
-> I love mixing tech with creativity — whether it’s building animated UI, real-time data apps, or solving challenges with smart code. 🚀
 
 ---
 
@@ -71,6 +122,3 @@
 ---
 
 > 🧠 *“Keep learning. Keep building. Keep shipping.”* — Saad Affan
-![snake gif](https://github.com/saad-affan12/saad-affan12/blob/output/github-contribution-grid-snake.svg)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=saad-affan12&color=blue&style=flat-square)
