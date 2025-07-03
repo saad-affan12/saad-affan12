@@ -73,3 +73,4 @@
 > 🧠 *“Keep learning. Keep building. Keep shipping.”* — Saad Affan
 ![snake gif](https://github.com/saad-affan12/saad-affan12/blob/output/github-contribution-grid-snake.svg)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=saad-affan12&color=blue&style=flat-square)
