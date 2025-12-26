@@ -34,9 +34,10 @@ B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundament
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=2500&pause=600&color=8A2BE2&center=true&vCenter=true&width=600&lines=DSA+%7C+OOP+%7C+Operating+Systems+%7C+DBMS;Backend+APIs+%7C+Cloud+Storage+Systems" />
+<strong>Core CS:</strong> DSA · OOP · Operating Systems · DBMS  
+<br/>
+<strong>Systems:</strong> Backend APIs · Cloud Storage · File Systems
 </p>
-
 ---
 
 ## 📊 GitHub Activity
