@@ -46,14 +46,12 @@ B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundament
 </p>
 
 ---
-## 🤝 Contributions
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saad-affan12&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/saad-affan12/saad-affan12/output/github-contribution-grid-snake.svg" />
 </p>
-
-- Contributing via clean commits, bug fixes, and documentation improvements  
-- Comfortable with collaborative workflows (PRs, reviews, issue tracking)
 
 
 ---
