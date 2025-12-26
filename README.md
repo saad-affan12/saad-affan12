@@ -7,42 +7,34 @@ I'm Mohammed Saad Affan A
 B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundamentals
 </h3>
 
-<div align="center">
-  <!-- Optional banner -->
-  <!-- <img src="./banner.png" /> -->
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+real-world+systems;Strong+CS+fundamentals;Cloud+and+Backend+focused;Learning+by+building" />
+</p>
 
-<br/>
+---
 
 ## 👨‍💻 About Me
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="260px" align="right" />
 
-- 🎓 Computer Science undergraduate at **Vellore Institute of Technology**
-- 🚀 Currently building a **Real-time Train Tracking Web Application**
+- 🎓 B.Sc Computer Science student at **Vellore Institute of Technology**
+- 🚀 Building a **Real-time Train Tracking Web Application**
+- ☁️ Built a **personal cloud storage system** (file upload, access control, backend APIs)
+- 🤝 Actively contributing through **code, fixes, and documentation**
 - 🌱 Learning **MERN Stack, System Design, Cloud Platforms**
-- 👯 Open to collaboration on **Web & Backend Projects**
-- 💬 Ask me about **Web Development, APIs, Git**
-- ⚡ Focused on **strong fundamentals and clean architecture**
+- 📫 Email: **saadaffan129@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/saad-affan-566553319
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nodejs,mongodb,mysql,git,github,vscode,linux" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=2500&pause=600&color=8A2BE2&center=true&vCenter=true&width=600&lines=DSA+%7C+OOP+%7C+Operating+Systems+%7C+DBMS;Backend+APIs+%7C+Cloud+Storage+Systems" />
 </p>
 
 ---
@@ -50,23 +42,39 @@ B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundament
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=transparent" />
 </p>
+
+---
+
+## 🤝 Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saad-affan12&theme=transparent" />
+</p>
+
+- Contributing via clean commits, bug fixes, and documentation improvements  
+- Comfortable with collaborative workflows (PRs, reviews, issue tracking)
 
 ---
 
 ## 🔗 Let’s Connect
 
+<p align="center">
 <a href="mailto:saadaffan129@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/saad-affan-566553319">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/saad-affan12">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</p>
 
 ---
 
-> “Learning never stops, but fundamentals decide the outcome.” — Saad Affan
+<p align="center">
+  <em>“Learning never stops, but fundamentals decide the outcome.” — Saad Affan</em>
+</p>
+
