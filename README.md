@@ -42,19 +42,19 @@ B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundament
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
-
 ## 🤝 Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saad-affan12&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=saad-affan12&theme=dark&hide_border=true" />
 </p>
 
 - Contributing via clean commits, bug fixes, and documentation improvements  
 - Comfortable with collaborative workflows (PRs, reviews, issue tracking)
+
 
 ---
 
