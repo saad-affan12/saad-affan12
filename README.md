@@ -46,7 +46,9 @@ B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundament
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad-affan12&theme=github_dark" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saad-affan12/saad-affan12/main/github-metrics.svg" />
+</p>
 ---
 
 ## 🐍 Contribution Snake
