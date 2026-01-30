@@ -49,7 +49,8 @@ B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundament
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Streak-%20?style=for-the-badge&logo=github&color=ff4500&labelColor=000000" />
+  🔥 <strong>Current Streak</strong>
+  <img src="https://img.shields.io/badge/days-live-success?style=flat-square&color=ff4500" />
 </p>
 
 ## 🐍 Contribution Snake
