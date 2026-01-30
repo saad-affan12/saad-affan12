@@ -38,7 +38,7 @@ B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundament
 <br/>
 <strong>Systems:</strong> Backend APIs · Cloud Storage · File Systems
 </p>
----
+
 
 ## 📊 GitHub Activity
 
