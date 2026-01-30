@@ -49,7 +49,7 @@ B.Sc Computer Science @ VIT | Full Stack Development | Backend & Cloud Fundament
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saad-affan12&hide_border=true&theme=dark&ring=FF4500&fire=FF4500&currStreakNum=FF4500" />
+  <img src="https://img.shields.io/badge/🔥%20Streak-%20?style=for-the-badge&logo=github&color=ff4500&labelColor=000000" />
 </p>
 
 ## 🐍 Contribution Snake
