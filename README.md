@@ -26,12 +26,13 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 B.Sc Computer Science @ **VIT**  
-- 🚆 Build aa **AI Smart Attendance System**  
-- ☁️ Built a **Cloud Storage Backend (APIs + Access Control)**  
-- 🧠 Focus: **Backend Systems, AI & System Design**  
-- 📈 Learning **DSA, Scalable Architecture, Cloud (AWS)**  
-- 🤝 Open to **collaboration & internships**  
+- 🎓 B.Sc Computer Science @ **Vellore Institute of Technology (VIT)**  
+- 🚆 Built an **AI-Based Smart Attendance System**  
+- ☁️ Developed a **Cloud Storage Backend (APIs, Authentication, Access Control)**  
+- 🧠 Focus: **Backend Engineering, System Design, Cloud Fundamentals**  
+- 📈 Strengthening **DSA and problem-solving skills**  
+- ☁️ Working with **cloud technologies (AWS)**  
+- 🤝 Open to **collaboration and internship opportunities**  
 
 </td>
 
@@ -49,12 +50,12 @@
 
 <div align="center">
 
-| Area | Capabilities |
-|-----|--------------|
-| 🔧 Backend | REST APIs, Auth (JWT), File Systems, RBAC |
-| 🌐 Full Stack | React, Node.js, MongoDB |
-| ☁️ Cloud | Deployment, Storage Systems |
-| 🧠 AI | Resume Analysis, API Integration |
+| Domain | Expertise |
+|--------|----------|
+| Backend Systems | API Design, Authentication, RBAC, File Storage |
+| Full Stack | End-to-end application development |
+| Cloud | Deployment, storage, backend services |
+| Problem Solving | DSA, system-level thinking |
 
 </div>
 
@@ -208,6 +209,6 @@ Role-based authentication voting system.
 </p>
 
 
-<div align="center"> <em>“Ship systems. Measure impact. Iterate fast.”</em> </div> 
+<div align="center"> <em>“Building systems that scale. Focused on fundamentals. Driven by execution.”</em> </div> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer" />
