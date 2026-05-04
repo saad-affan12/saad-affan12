@@ -37,9 +37,9 @@
 </td>
 
 <td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-affan12&layout=compact&theme=tokyonight&hide_border=true" />
-
+<a href="#">
+  <img height=170 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=saad-affan12&langs_count=6&layout=compact&theme=radical&card_width=180" />
+</a>
 </td>
 </tr>
 </table>
