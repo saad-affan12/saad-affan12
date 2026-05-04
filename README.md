@@ -27,14 +27,12 @@
 <td width="60%" valign="top">
 
 - 🎓 B.Sc Computer Science @ **Vellore Institute of Technology (VIT)**  
-- 🚆 Built an **AI-Based Smart Attendance System**  
+- 🤖 Built an **AI-Based Smart Attendance System**  
 - ☁️ Developed a **Cloud Storage Backend (APIs, Authentication, Access Control)**  
-- 🧠 Focus: **Backend Engineering, System Design, Cloud Fundamentals**  
-- 📈 Strengthening **DSA and problem-solving skills**  
-- ☁️ Working with **cloud technologies (AWS)**  
+- 🧩 Focus: **Backend Engineering, System Design, Cloud Fundamentals**  
+- 📊 Strengthening **DSA and problem-solving skills**  
+- ⚙️ Working with **cloud technologies (AWS)**  
 - 🤝 Open to **collaboration and internship opportunities**  
-
-</td>
 
 <td width="40%" align="center">
 <a href="#">
