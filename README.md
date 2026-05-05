@@ -89,12 +89,12 @@
 
 <td align="center">
 <b>☁️ Backend Systems</b><br/><br/>
-API Design · Auth · File Storage · DB Modeling
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,docker" />
 </td>
 
 <td align="center">
 <b>🚀 Learning</b><br/><br/>
-AWS · System Design · AI Workflows
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow" />
 </td>
 </tr>
 </table>
