@@ -36,8 +36,9 @@
 
 <td width="40%" align="center">
 <a href="#">
-  <img height=170 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=saad-affan12&langs_count=6&layout=compact&theme=radical&card_width=180" />
+  <img height=170 align="center" src="https://github-stats-api-olive.vercel.app/api/top-langs" />
 </a>
+</td>
 </td>
 </tr>
 </table>
