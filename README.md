@@ -210,4 +210,6 @@ Role-based authentication voting system.
 
 <div align="center"> <em>“Building systems that scale. Focused on fundamentals. Driven by execution.”</em> </div> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer" />
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
