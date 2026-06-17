@@ -169,7 +169,7 @@ Role-based authentication voting system.
 
 <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=saad-affan12&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=saad-affan12&hide_border=true&background=0A0F1C&stroke=00E5FF&ring=00B8D9&fire=00FFFF&currStreakNum=FFFFFF&sideNums=B6FBFF&currStreakLabel=00E5FF&sideLabels=7DD3FC&dates=94A3B8"/>
 
 </div>
 
