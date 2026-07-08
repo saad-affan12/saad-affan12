@@ -167,7 +167,7 @@ Role-based authentication voting system.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=saad-affan12&theme=midnight-purple&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=saad-affan12&theme=midnight-purple&hide_border=true&border_radius=12&card_width=500" />
 </p>
 
 ---
