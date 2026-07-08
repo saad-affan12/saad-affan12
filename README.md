@@ -166,8 +166,11 @@ Role-based authentication voting system.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=saad-affan12&theme=midnight-purple&hide_border=true&border_radius=12&card_width=500" />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=saad-affan12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12"
+  height="170"
+/>
+  <img src="https://streak-stats.demolab.com?user=saad-affan12&theme=midnight-purple&hide_border=true" height="170" />
 </p>
 
 ---
